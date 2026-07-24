@@ -14,7 +14,7 @@ import {
 
 const { width } = Dimensions.get('window');
 
-// Local stories pulling from your laptop storage
+// Local stories pulling from my laptop storage
 const initialStories = [
   { id: '1', username: 'Your Story', image: require('../assets/images/avatar1.jpg'), storyImage: require('../assets/images/story1.jpg') },
   { id: '2', username: 'abdullah_k', image: require('../assets/images/avatar2.jpg'), storyImage: require('../assets/images/story2.jpg') },
