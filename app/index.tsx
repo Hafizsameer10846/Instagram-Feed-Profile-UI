@@ -28,7 +28,6 @@ const initialStories = [
   { id: '10', username: 'bilal_ahmed', image: require('../assets/images/avatar10.jpg'), storyImage: require('../assets/images/story10.jpg') },
 ];
 
-// Local posts pulling from your laptop storage
 const posts = [
   { id: '1', username: 'abdullah_k', location: 'Lahore, Pakistan', userImage: require('../assets/images/avatar2.jpg'), postImage: require('../assets/images/post1.jpg'), baseLikes: 1245, caption: 'Badshahi Mosque view is unbeatable.', comments: 45, time: '2 hours ago' },
   { id: '2', username: 'umair_hussain', location: 'Islamabad, Pakistan', userImage: require('../assets/images/avatar3.jpg'), postImage: require('../assets/images/post2.jpg'), baseLikes: 892, caption: 'Faisal Mosque looking stunning today!', comments: 12, time: '4 hours ago' },
